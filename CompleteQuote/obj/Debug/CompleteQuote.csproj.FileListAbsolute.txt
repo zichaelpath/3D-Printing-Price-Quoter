@@ -1,0 +1,11 @@
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\bin\Debug\CompleteQuote.exe.config
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\bin\Debug\CompleteQuote.exe
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\bin\Debug\CompleteQuote.pdb
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\obj\Debug\CompleteQuote.csproj.AssemblyReference.cache
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\obj\Debug\CompleteQuote.csproj.SuggestedBindingRedirects.cache
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\obj\Debug\CompleteQuote.Properties.Resources.resources
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\obj\Debug\CompleteQuote.csproj.GenerateResource.cache
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\obj\Debug\CompleteQuote.csproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\obj\Debug\CompleteQuote.exe
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\obj\Debug\CompleteQuote.pdb
+C:\Users\zacha\source\repos\CompleteQuote\CompleteQuote\obj\Debug\CompleteQuote.MainForm.resources
